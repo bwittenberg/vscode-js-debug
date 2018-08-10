@@ -1,0 +1,22 @@
+{
+  "name": "vscode-js-debug",
+  "version": "1.0.0",
+  "description": "VSCode debug boilerplate",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwittenberg/vscode-js-debug.git"
+  },
+  "author": "Ben Wittenberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bwittenberg/vscode-js-debug/issues"
+  },
+  "homepage": "https://github.com/bwittenberg/vscode-js-debug#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {}
+}
